@@ -1,4 +1,4 @@
-## 💾 Specs
+
 - Node v14.x
 - MVCS pattern (Model > Route > Controller > Service)
 - Classic NodeJS Dependences: Sequelize / Express / Cors / DotENV / HTTPERRORS
