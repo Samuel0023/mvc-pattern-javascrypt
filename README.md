@@ -22,3 +22,4 @@ sequelize db:drop
 
 
 gabriela
+Santiago Quiroz
