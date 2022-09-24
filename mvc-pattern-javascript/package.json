@@ -1,8 +1,8 @@
 {
-  "name": "aconcagua-backend",
+  "name": "mvc-javascript-backend",
   "version": "1.0.1",
   "description": "example of mvc oriented off an soa architecture",
-  "author": "gabodmc",
+  "author": "Samuel0023",
   "license": "MIT",
   "repository": {
     "type": "git",
